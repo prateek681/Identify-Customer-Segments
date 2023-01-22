@@ -4,11 +4,11 @@ Udacity Data Scientist Nanodegree Project 3 Identify Customer Segments
 ### Table of Contents
 
 1. [Requirements](#requirements)
-2. [Project Description](#motivation)]
+2. [Project Description](#motivation)
 3. [Results](#results)
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Installation <a name="installation"></a>
+## Requirements <a name="requirements"></a>
 
 No specific requirements are needed for this project. 
 
