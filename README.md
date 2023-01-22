@@ -4,7 +4,7 @@ Udacity Data Scientist Nanodegree Project 3 Identify Customer Segments
 ### Table of Contents
 
 1. [Requirements](#requirements)
-2. [Project Description](#motivation)](#files)
+2. [Project Description](#motivation)]
 3. [Results](#results)
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
@@ -21,18 +21,13 @@ Using data preprocessing, cleaning and data science techniques, these segments c
 
 ## Results<a name="results"></a>
 
-Cluster 4 is overrepresented in the customers data compared to general population data. Some characteristics of the group of population that are relative popular with the mail-order company:
+For Clusters 3, 4, 6 and 8, we can observe a great amount of overrepresentation.
 
-* in areas where the share of 6-10 family homes is lower (PLZ8_ANTG3=1.73)
-* in Prosperous or Comfortable households (WEALTH=2.75)
-* in life stage of Families With School Age Children or Older Families & Mature Couples (LIFE_STAGE=3.30)
+In contrast to that, in Clusters 1, 2, 9, 11 and 12, we can observe a decent amount of overrepresentation.
 
-Cluster 13 is underrepresented in the customers data. Some characteristics of the segment of the population that are relatively unpopular with the company:
+The popular segments are people from age groups 46 to 60, with health type of jaunty hedonists and high income.
 
-* in areas where the share of 6-10 family homes is higher (PLZ8_ANTG3=2.44)
-* in Less Affluent or Poorer households (WEALTH=4.4)
-* in life stage of Pre-Family Couples & Singles or Young Couples With Children (LIFE_STAGE=1.98)
-
+The unpopular segments are people with very high religion and high income factors.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
