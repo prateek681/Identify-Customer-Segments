@@ -12,7 +12,7 @@ Udacity Data Scientist Nanodegree Project 3 Identify Customer Segments
 
 No specific requirements are needed for this project. 
 
-## Project Motivation<a name="motivation"></a>
+## Project Description<a name="motivation"></a>
 
 This project is a part of the Udacity Data Scientist Nanodegree Program. In this project, unsupervised learning techniques were applied to identify segments of the customer which form the core customer based for a mail-order sales company based in Germany.
 
